@@ -1,0 +1,2 @@
+import(biocViews)
+exportPattern("^[[:alpha:]]+")
